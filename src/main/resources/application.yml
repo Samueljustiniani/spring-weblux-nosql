@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:Clave1234@cluster0.ospo4yf.mongodb.net/22_samuel_justiniani?retryWrites=true&w=majority
+  application:
+    name: samuel.justiniani
